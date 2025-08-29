@@ -1,2 +1,2 @@
-## UI Selenide автотесты находятся в пакете AppleInsider и Hh
+## UI Selenide автотесты находятся в пакете AppleInsider(https://github.com/OlyaChistikova/AppleInsider/tree/master/src/test/java/appleInsider) и Hh
 ### UI-автотесты, разработанные с использованием Selenide и паттерна PageObject
