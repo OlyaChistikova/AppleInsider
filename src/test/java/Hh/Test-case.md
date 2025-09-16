@@ -3,4 +3,4 @@
 2. Получить информацию о профиле, используя HashMap или Class, в которой должны быть следующие атрибуты: String sex, int age, String city, boolean readyToRelocate.
 3. Убедится, что ожидаемый результат и актуальный равны.
 
-   Ожидаемый результат sex - "М", age = 27, city - "Санкт-Петербург",  readyToRelocate - true;
+   Ожидаемый результат sex - "М", age = 27, city - "Санкт-Петербург",  readyToRelocate - true.
