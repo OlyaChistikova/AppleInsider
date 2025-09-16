@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class HhTest extends BaseTest {
-    private final static String URL = "https://ulyanovsk.hh.ru/resume/519093020007287cb10039ed1f536835324d62";
+    private final static String URL = "https://ulyanovsk.hh.ru/applicant/resumes/view?resume=519093020007287cb10039ed1f536835324d62";
 
     @Test
     public void checkAttributesHashMap(){
